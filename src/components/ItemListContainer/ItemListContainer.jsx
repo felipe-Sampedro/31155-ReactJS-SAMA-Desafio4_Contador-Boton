@@ -3,7 +3,7 @@ import Card from '../Card/Card'
 
 const ItemListContainer = ({greetings}) => {
   return (
-    <div className='bg-info'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius adipisci ipsum natus deserunt accusamus voluptate.
+    <div className='bg-info'>Este es el componente ItemListContainer
 
         <p>{greetings}</p>
         <div className="d-flex justify-content-evenly p-4">
